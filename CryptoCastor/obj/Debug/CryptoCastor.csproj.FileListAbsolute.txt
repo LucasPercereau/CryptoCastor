@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\bin\Debug\CryptoCastor.exe.config
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\bin\Debug\CryptoCastor.exe
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\bin\Debug\CryptoCastor.pdb
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.Properties.Resources.resources
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.exe
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.pdb
+C:\Users\lucas\Desktop\C#\CryptoCastor\CryptoCastor\obj\Debug\CryptoCastor.Form1.resources
